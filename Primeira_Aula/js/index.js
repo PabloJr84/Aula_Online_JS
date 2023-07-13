@@ -27,3 +27,12 @@ No Javascript temos 3 palavras-chaves para declarar variáveis:
 --> let
 --> const
 */
+// Declaração de variaveis
+var a,b,c;
+
+//Atribuição de valores 
+a = 2;
+b = 3;
+c = a + b;
+
+alert(c);
